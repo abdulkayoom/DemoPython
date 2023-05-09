@@ -1,0 +1,30 @@
+.banner{
+    background-color: #bccad6;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 50px;
+}
+
+.banner-text{
+    top: 10%;
+    left: 50%;
+    position: absolute;
+    transform: transform;
+    color: #3b3a30;
+}
+
+body{
+    background-color: #667292;
+}
+
+.card{
+    background-color: #8d9db6;
+}
+
+form{
+    background-color: #8d9db6;
+}
+
+h4{
+    background-color: #c0ded9;
+}
